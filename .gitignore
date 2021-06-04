@@ -1,0 +1,5 @@
+work
+.nextflow*
+db/database/*.tnt
+db/database/*.ttt
+db/database/*.tzt
